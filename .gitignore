@@ -4,7 +4,7 @@
 .ruff_cache
 *.egg-info
 .python-version
-
+*.lock
 
 # Distribution / packaging
 dist/
