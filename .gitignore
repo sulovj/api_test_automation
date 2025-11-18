@@ -1,0 +1,13 @@
+# Byte-compiled / optimized
+**/__pycache__/
+.pytest_cache
+.ruff_cache
+*.egg-info
+.python-version
+
+
+# Distribution / packaging
+dist/
+build/
+
+report.html
